@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:passData.xcodeproj">
+      location = "self:/Users/danielvargas/Documents/pkdex/pokedex Swift.xcodeproj">
    </FileRef>
 </Workspace>
