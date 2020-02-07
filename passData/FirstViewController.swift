@@ -33,6 +33,7 @@ class FirstViewController: UIViewController {
         vc?.data = pokedex[1]
         vc?.delegate = self as PassDataToVC
         navigationController?.pushViewController(vc!, animated: true)
+        
     }
     
     @IBAction func SquirtleClicked(_ sender: Any) {
