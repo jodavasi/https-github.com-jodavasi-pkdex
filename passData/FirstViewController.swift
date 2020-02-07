@@ -50,6 +50,9 @@ extension FirstViewController: PassDataToVC{
     
     func passData(str: String) {
         
+        
+        
+        
     }
 }
 
