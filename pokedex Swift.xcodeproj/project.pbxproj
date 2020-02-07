@@ -109,9 +109,9 @@
 		F8D6A2B923DD5F5200530EC7 = {
 			isa = PBXGroup;
 			children = (
-				F8D6A2C423DD5F5200530EC7 /* pkdex */,
-				F8D6A2DB23DD5F5300530EC7 /* pkdexTests */,
-				F8D6A2E623DD5F5300530EC7 /* pkdexUITests */,
+				F8D6A2C423DD5F5200530EC7 /* passData */,
+				F8D6A2DB23DD5F5300530EC7 /* passDataTests */,
+				F8D6A2E623DD5F5300530EC7 /* passDataUITests */,
 				F8D6A2C323DD5F5200530EC7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -126,7 +126,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F8D6A2C423DD5F5200530EC7 /* pkdex */ = {
+		F8D6A2C423DD5F5200530EC7 /* passData */ = {
 			isa = PBXGroup;
 			children = (
 				F84B9B3F23ED2CC300217D95 /* Images */,
@@ -139,25 +139,25 @@
 				F8D6A2D323DD5F5300530EC7 /* Info.plist */,
 				F8D6A2F523DD5F8100530EC7 /* SecondViewController.swift */,
 			);
-			path = pkdex;
+			path = passData;
 			sourceTree = "<group>";
 		};
-		F8D6A2DB23DD5F5300530EC7 /* pkdexTests */ = {
+		F8D6A2DB23DD5F5300530EC7 /* passDataTests */ = {
 			isa = PBXGroup;
 			children = (
 				F8D6A2DC23DD5F5300530EC7 /* passDataTests.swift */,
 				F8D6A2DE23DD5F5300530EC7 /* Info.plist */,
 			);
-			path = pkdexTests;
+			path = passDataTests;
 			sourceTree = "<group>";
 		};
-		F8D6A2E623DD5F5300530EC7 /* pkdexUITests */ = {
+		F8D6A2E623DD5F5300530EC7 /* passDataUITests */ = {
 			isa = PBXGroup;
 			children = (
 				F8D6A2E723DD5F5300530EC7 /* passDataUITests.swift */,
 				F8D6A2E923DD5F5300530EC7 /* Info.plist */,
 			);
-			path = pkdexUITests;
+			path = passDataUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
